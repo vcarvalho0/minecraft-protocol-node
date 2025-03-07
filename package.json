@@ -1,0 +1,20 @@
+{
+  "name": "minecraft-protoco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/varint": "^6.0.3",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "tsx": "^4.7.1"
+  }
+}
