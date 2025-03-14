@@ -1,7 +1,7 @@
 {
-  "name": "minecraft-protoco",
+  "name": "minecraft-protocol",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple minecraft protocol server",
   "main": "index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts"
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/varint": "^6.0.3",
     "typescript": "^5.4.2"
   },
   "dependencies": {
